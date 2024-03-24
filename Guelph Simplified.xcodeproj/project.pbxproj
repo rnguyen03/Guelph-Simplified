@@ -9,21 +9,43 @@
 /* Begin PBXBuildFile section */
 		C5BA4A162BAB36C600097E89 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A152BAB36C600097E89 /* AppDelegate.swift */; };
 		C5BA4A182BAB36C600097E89 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A172BAB36C600097E89 /* SceneDelegate.swift */; };
-		C5BA4A1A2BAB36C600097E89 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A192BAB36C600097E89 /* ViewController.swift */; };
 		C5BA4A1D2BAB36C600097E89 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5BA4A1B2BAB36C600097E89 /* Main.storyboard */; };
 		C5BA4A1F2BAB36C700097E89 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5BA4A1E2BAB36C700097E89 /* Assets.xcassets */; };
 		C5BA4A222BAB36C700097E89 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5BA4A202BAB36C700097E89 /* LaunchScreen.storyboard */; };
+		C5BA4A2F2BAB3BE600097E89 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A2E2BAB3BE600097E89 /* LoginViewController.swift */; };
+		C5BA4A312BAB3E7700097E89 /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A302BAB3E7700097E89 /* SplashViewController.swift */; };
+		C5BA4A342BAB455600097E89 /* AppStoryboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A332BAB455600097E89 /* AppStoryboard.swift */; };
+		C5BA4A362BAB56FF00097E89 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A352BAB56FF00097E89 /* RegisterViewController.swift */; };
+		C5BA4A3C2BABE24A00097E89 /* SimpleTabbarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A3B2BABE24A00097E89 /* SimpleTabbarController.swift */; };
+		C5BA4A422BAC704700097E89 /* EventsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A412BAC704700097E89 /* EventsViewController.swift */; };
+		C5BA4A442BAC705700097E89 /* ConnectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A432BAC705700097E89 /* ConnectViewController.swift */; };
+		C5BA4A462BAC706700097E89 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A452BAC706700097E89 /* ProfileViewController.swift */; };
+		C5BA4A482BAF9A4700097E89 /* EventDescriptionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A472BAF9A4700097E89 /* EventDescriptionViewController.swift */; };
+		C5BA4A4A2BAFBBCF00097E89 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A492BAFBBCE00097E89 /* MapViewController.swift */; };
+		C5BA4A4C2BAFC0F000097E89 /* LocationDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A4B2BAFC0F000097E89 /* LocationDetailsView.swift */; };
+		C5BA4A4E2BAFCF1500097E89 /* LocationCalloutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BA4A4D2BAFCF1500097E89 /* LocationCalloutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		C5BA4A122BAB36C600097E89 /* Guelph Simplified.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Guelph Simplified.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5BA4A152BAB36C600097E89 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C5BA4A172BAB36C600097E89 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		C5BA4A192BAB36C600097E89 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		C5BA4A1C2BAB36C600097E89 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C5BA4A1E2BAB36C700097E89 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C5BA4A212BAB36C700097E89 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C5BA4A232BAB36C700097E89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C5BA4A2E2BAB3BE600097E89 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		C5BA4A302BAB3E7700097E89 /* SplashViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashViewController.swift; sourceTree = "<group>"; };
+		C5BA4A332BAB455600097E89 /* AppStoryboard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppStoryboard.swift; sourceTree = "<group>"; };
+		C5BA4A352BAB56FF00097E89 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		C5BA4A3B2BABE24A00097E89 /* SimpleTabbarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleTabbarController.swift; sourceTree = "<group>"; };
+		C5BA4A412BAC704700097E89 /* EventsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsViewController.swift; sourceTree = "<group>"; };
+		C5BA4A432BAC705700097E89 /* ConnectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectViewController.swift; sourceTree = "<group>"; };
+		C5BA4A452BAC706700097E89 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		C5BA4A472BAF9A4700097E89 /* EventDescriptionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventDescriptionViewController.swift; sourceTree = "<group>"; };
+		C5BA4A492BAFBBCE00097E89 /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		C5BA4A4B2BAFC0F000097E89 /* LocationDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDetailsView.swift; sourceTree = "<group>"; };
+		C5BA4A4D2BAFCF1500097E89 /* LocationCalloutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationCalloutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +78,90 @@
 		C5BA4A142BAB36C600097E89 /* Guelph Simplified */ = {
 			isa = PBXGroup;
 			children = (
-				C5BA4A152BAB36C600097E89 /* AppDelegate.swift */,
-				C5BA4A172BAB36C600097E89 /* SceneDelegate.swift */,
-				C5BA4A192BAB36C600097E89 /* ViewController.swift */,
-				C5BA4A1B2BAB36C600097E89 /* Main.storyboard */,
-				C5BA4A1E2BAB36C700097E89 /* Assets.xcassets */,
-				C5BA4A202BAB36C700097E89 /* LaunchScreen.storyboard */,
+				C5BA4A322BAB41F300097E89 /* Helper */,
+				C5BA4A292BAB38FD00097E89 /* Controllers */,
+				C5BA4A2A2BAB398E00097E89 /* Views */,
+				C5BA4A2C2BAB39EE00097E89 /* Resources */,
+				C5BA4A2B2BAB39AD00097E89 /* Delegates */,
 				C5BA4A232BAB36C700097E89 /* Info.plist */,
 			);
 			path = "Guelph Simplified";
+			sourceTree = "<group>";
+		};
+		C5BA4A292BAB38FD00097E89 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				C5BA4A3D2BAC700100097E89 /* Core */,
+				C5BA4A2D2BAB3AA400097E89 /* Auth */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		C5BA4A2A2BAB398E00097E89 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				C5BA4A1B2BAB36C600097E89 /* Main.storyboard */,
+				C5BA4A202BAB36C700097E89 /* LaunchScreen.storyboard */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		C5BA4A2B2BAB39AD00097E89 /* Delegates */ = {
+			isa = PBXGroup;
+			children = (
+				C5BA4A152BAB36C600097E89 /* AppDelegate.swift */,
+				C5BA4A172BAB36C600097E89 /* SceneDelegate.swift */,
+			);
+			path = Delegates;
+			sourceTree = "<group>";
+		};
+		C5BA4A2C2BAB39EE00097E89 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C5BA4A1E2BAB36C700097E89 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		C5BA4A2D2BAB3AA400097E89 /* Auth */ = {
+			isa = PBXGroup;
+			children = (
+				C5BA4A2E2BAB3BE600097E89 /* LoginViewController.swift */,
+				C5BA4A302BAB3E7700097E89 /* SplashViewController.swift */,
+				C5BA4A352BAB56FF00097E89 /* RegisterViewController.swift */,
+			);
+			path = Auth;
+			sourceTree = "<group>";
+		};
+		C5BA4A322BAB41F300097E89 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				C5BA4A382BABDF2B00097E89 /* TabBar */,
+				C5BA4A332BAB455600097E89 /* AppStoryboard.swift */,
+				C5BA4A4B2BAFC0F000097E89 /* LocationDetailsView.swift */,
+				C5BA4A4D2BAFCF1500097E89 /* LocationCalloutView.swift */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		C5BA4A382BABDF2B00097E89 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				C5BA4A3B2BABE24A00097E89 /* SimpleTabbarController.swift */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		C5BA4A3D2BAC700100097E89 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				C5BA4A492BAFBBCE00097E89 /* MapViewController.swift */,
+				C5BA4A412BAC704700097E89 /* EventsViewController.swift */,
+				C5BA4A432BAC705700097E89 /* ConnectViewController.swift */,
+				C5BA4A452BAC706700097E89 /* ProfileViewController.swift */,
+				C5BA4A472BAF9A4700097E89 /* EventDescriptionViewController.swift */,
+			);
+			path = Core;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +235,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C5BA4A1A2BAB36C600097E89 /* ViewController.swift in Sources */,
+				C5BA4A4C2BAFC0F000097E89 /* LocationDetailsView.swift in Sources */,
+				C5BA4A482BAF9A4700097E89 /* EventDescriptionViewController.swift in Sources */,
+				C5BA4A342BAB455600097E89 /* AppStoryboard.swift in Sources */,
+				C5BA4A2F2BAB3BE600097E89 /* LoginViewController.swift in Sources */,
 				C5BA4A162BAB36C600097E89 /* AppDelegate.swift in Sources */,
+				C5BA4A362BAB56FF00097E89 /* RegisterViewController.swift in Sources */,
 				C5BA4A182BAB36C600097E89 /* SceneDelegate.swift in Sources */,
+				C5BA4A4A2BAFBBCF00097E89 /* MapViewController.swift in Sources */,
+				C5BA4A4E2BAFCF1500097E89 /* LocationCalloutView.swift in Sources */,
+				C5BA4A442BAC705700097E89 /* ConnectViewController.swift in Sources */,
+				C5BA4A462BAC706700097E89 /* ProfileViewController.swift in Sources */,
+				C5BA4A3C2BABE24A00097E89 /* SimpleTabbarController.swift in Sources */,
+				C5BA4A312BAB3E7700097E89 /* SplashViewController.swift in Sources */,
+				C5BA4A422BAC704700097E89 /* EventsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
