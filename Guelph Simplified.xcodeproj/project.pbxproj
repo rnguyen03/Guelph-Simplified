@@ -398,6 +398,7 @@
 				DEVELOPMENT_TEAM = NHFF82TKTT;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Guelph Simplified/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Guelph Simplified";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -426,6 +427,7 @@
 				DEVELOPMENT_TEAM = NHFF82TKTT;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Guelph Simplified/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Guelph Simplified";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;

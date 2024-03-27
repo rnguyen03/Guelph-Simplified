@@ -36,6 +36,7 @@ class LocationCalloutView: UIView {
 
         navigateButton.translatesAutoresizingMaskIntoConstraints = false
         navigateButton.setTitle("Navigate", for: .normal)
+        navigateButton.titleLabel?.font = UIFont(name: "Avenir Next Medium", size: 16)
         navigateButton.backgroundColor = .systemIndigo
         navigateButton.layer.cornerRadius = 5
         addSubview(navigateButton)
@@ -57,6 +58,7 @@ class LocationCalloutView: UIView {
 
     func configure(with title: String, onNavigate: @escaping () -> Void) {
         titleLabel.text = title
+        titleLabel.font = UIFont(name: "Avenir Next Medium", size: 18)
         self.onNavigate = onNavigate
     }
 
